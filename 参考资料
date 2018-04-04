@@ -1,1 +1,5 @@
 文本的检测识别：参考资料
+https://www.zhihu.com/question/20191727  OCR识别用的是什么算法。
+
+一种OCR算法 yolo https://pjreddie.com/media/files/papers/yolo.pdf
+RCNN  https://arxiv.org/pdf/1506.01497.pdf
